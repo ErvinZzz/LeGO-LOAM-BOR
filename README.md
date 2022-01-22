@@ -7,7 +7,8 @@ This fork is modify the origial LeGO-LOAM-BOR code to enable fully support to th
 - modify makefile to avoid pcl error in building
 - add configuration for Velodyne VLP32-C
 
--------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------
+Original Readme
 
 This is a fork of the original [LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM).
 
