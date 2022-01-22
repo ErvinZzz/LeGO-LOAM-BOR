@@ -1,10 +1,11 @@
 # LeGO-LOAM-BOR-NOETIC
 
 This fork is modify the origial LeGO-LOAM-BOR code to enable fully support to the Ubuntu 20.04 and ROS1 Noetic
-1.correct all frame name to adapt noetic convention
-2.use tf2 instead of tf1
-3.modify makefile to avoid pcl error in building
-4.add configuration for Velodyne VLP32-C
+
+- correct all frame name to adapt noetic convention
+- use tf2 instead of tf1
+- modify makefile to avoid pcl error in building
+- add configuration for Velodyne VLP32-C
 
 This is a fork of the original [LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM).
 
